@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject7", "UnitTestProject7\UnitTestProject7.csproj", "{34B5E075-3F9A-401D-90F1-CE143FB253C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecFlowProjectGmail", "SpecFlowProjectGmail\SpecFlowProjectGmail.csproj", "{65EF552E-4F48-4ADC-BD3C-19D64DD332D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B5E075-3F9A-401D-90F1-CE143FB253C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B5E075-3F9A-401D-90F1-CE143FB253C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B5E075-3F9A-401D-90F1-CE143FB253C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B5E075-3F9A-401D-90F1-CE143FB253C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EF552E-4F48-4ADC-BD3C-19D64DD332D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EF552E-4F48-4ADC-BD3C-19D64DD332D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EF552E-4F48-4ADC-BD3C-19D64DD332D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EF552E-4F48-4ADC-BD3C-19D64DD332D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C84C0553-F994-4730-A602-E9BC29A9CB30}
+	EndGlobalSection
+EndGlobal
