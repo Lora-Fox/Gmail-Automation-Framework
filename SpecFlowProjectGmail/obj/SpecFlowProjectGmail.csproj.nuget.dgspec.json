@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\SpecFlowProjectGmail\\SpecFlowProjectGmail.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\SpecFlowProjectGmail\\SpecFlowProjectGmail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\SpecFlowProjectGmail\\SpecFlowProjectGmail.csproj",
+        "projectName": "SpecFlowProjectGmail",
+        "projectPath": "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\SpecFlowProjectGmail\\SpecFlowProjectGmail.csproj",
+        "packagesPath": "C:\\Users\\LoRiska\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\SpecFlowProjectGmail\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LoRiska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\UnitTestProject7\\UnitTestProject7.csproj": {
+                "projectPath": "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\UnitTestProject7\\UnitTestProject7.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Appium.WebDriver": {
+              "target": "Package",
+              "version": "[3.0.0.2, )"
+            },
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Gherkin": {
+              "target": "Package",
+              "version": "[19.0.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0-alpha-net7.4, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.11.2, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.11.2, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\UnitTestProject7\\UnitTestProject7.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\UnitTestProject7\\UnitTestProject7.csproj",
+        "projectName": "UnitTestProject7",
+        "projectPath": "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\UnitTestProject7\\UnitTestProject7.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

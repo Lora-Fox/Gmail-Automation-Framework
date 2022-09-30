@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8NW2lETtHC5x1Qi/b8YF11sowT8gzg+MMPY4sYAhLCjvtDDyd6JiLDmYYlmLMjFaGJYEzjlOnokaVYwKz5imA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LoRiska\\Desktop\\Automation Framework for Gmail by Tsyganok Larisa_\\SpecFlowProjectGmail\\SpecFlowProjectGmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LoRiska\\.nuget\\packages\\appium.webdriver\\3.0.0.2\\appium.webdriver.3.0.0.2.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\castle.core\\3.3.3\\castle.core.3.3.3.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\nunit3testadapter\\4.3.0-alpha-net7.4\\nunit3testadapter.4.3.0-alpha-net7.4.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\selenium.support\\3.11.2\\selenium.support.3.11.2.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\selenium.webdriver\\3.11.2\\selenium.webdriver.3.11.2.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\specflow\\3.9.74\\specflow.3.9.74.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\specflow.nunit\\3.9.74\\specflow.nunit.3.9.74.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.74\\specflow.tools.msbuild.generation.3.9.74.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.0\\system.threading.tasks.extensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\LoRiska\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
